@@ -1,4 +1,4 @@
-# Hi there, I'm [theajack!](https://theajack.gitee.io) 👋
+# Hi there, I'm [Tack Chen!](https://theajack.gitee.io) 👋
 
 [![](https://img.shields.io/badge/TS-cnchar-1E90FF)](https://theajack.gitee.io/cnchar)
 [![](https://img.shields.io/badge/JS-DisableDevtool-ef5b9c)](https://www.github.com/theajack/disable-devtool)
