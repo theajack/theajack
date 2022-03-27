@@ -10,7 +10,7 @@
 
 [汉字工具库](https://theajack.gitee.io/cnchar) | [禁用F12开发者工具](https://theajack.gitee.io/disable-devtool) | [事件库](https://www.github.com/theajack/tc-event) | [图标库](https://theajack.gitee.io/easy-icon) | [创建项目工具cli](https://www.github.com/theajack/ebuild-cli) | [web框架Jetee](https://theajack.gitee.io/jetee) | [文本验证库](https://www.github.com/theajack/pure-v)
 
-[在线代码编辑器](https://theajack.gitee.io/jsbox) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [生成和解析二维码](https://www.theajack.com/qrcode) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui)
+[在线代码编辑器](https://theajack.gitee.io/jsbox) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://www.theajack.com/qrcode) | [横屏模拟器](https://www.theajack.com/landscap-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui)
 
 [打字打飞机](https://theajack.gitee.io/type) | [打字弹钢琴](https://theajack.gitee.io/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) | [实用小工具](https://theajack.gitee.io/tool) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
 
