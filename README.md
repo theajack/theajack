@@ -14,4 +14,38 @@
 
 [打字打飞机](https://theajack.gitee.io/type) | [打字弹钢琴](https://theajack.gitee.io/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) | [实用小工具](https://theajack.gitee.io/tool) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
 
-<img display="inline-block" src="https://github-readme-stats.vercel.app/api?username=theajack&count_private=true&show_icons=true&theme=tokyonight&custom_title=My GitHub Stats:"/>
+<a href="https://github.com/theajack?tab=repositories">
+    <img align="center" height="185" src="https://github-readme-stats.vercel.app/api?username=theajack&count_private=true&show_icons=true&layout=compact&custom_title=My GitHub Stats:&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>&nbsp;
+
+<a href="https://github.com/theajack">
+    <img align="center" height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theajack&hide=html&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
+
+<!--
+----
+
+<a href="https://github.com/theajack/cnchar">
+    <img height="150" width="428" src="https://github-readme-stats.vercel.app/api/pin/?username=theajack&repo=cnchar&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>&nbsp;
+
+<a href="https://github.com/theajack/github-readme-stats">
+    <img height="150" width="428" src="https://github-readme-stats.vercel.app/api/pin/?username=theajack&repo=disable-devtool&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
+
+<a href="https://github.com/theajack/github-readme-stats">
+    <img height="150" width="428" src="https://github-readme-stats.vercel.app/api/pin/?username=theajack&repo=jsbox&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>&nbsp;
+
+<a href="https://github.com/theajack/github-readme-stats">
+    <img height="150" width="428" src="https://github-readme-stats.vercel.app/api/pin/?username=theajack&repo=dingdong-node&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
+
+<a href="https://github.com/theajack/github-readme-stats">
+    <img height="150" width="428" src="https://github-readme-stats.vercel.app/api/pin/?username=theajack&repo=mp-mixin&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
+
+<a href="https://github.com/theajack/github-readme-stats">
+    <img height="150" width="428" src="https://github-readme-stats.vercel.app/api/pin/?username=theajack&repo=type&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
+-->
