@@ -12,7 +12,7 @@
 
 [在线代码编辑器](https://theajack.gitee.io/jsbox) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://theajack.gitee.io/qrcode) | [横屏模拟器](https://theajack.gitee.io/landscap-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui)
 
-[打字打飞机](https://theajack.gitee.io/type) | [打字弹钢琴](https://theajack.gitee.io/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) | [实用小工具](https://theajack.gitee.io/tool) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
+[打字打飞机](https://theajack.gitee.io/type) | [打字弹钢琴](https://theajack.gitee.io/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) | [实用小工具](https://theajack.gitee.io/tool) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu) | [抖音:374346898](https://www.douyin.com/user/MS4wLjABAAAAlp87ocUWPmyLfbwT5eBjY2Xydl7JmkZdG1INTjlbss8)
 
 <a href="https://github.com/theajack?tab=repositories">
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=theajack&count_private=true&show_icons=true&layout=compact&custom_title=My GitHub Stats:&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
