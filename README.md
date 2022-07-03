@@ -12,7 +12,7 @@
 [![](https://img.shields.io/badge/TS-purev-214467)](https://www.github.com/theajack/pure-v)
 [![](https://visitor-badge.glitch.me/badge?page_id=tackchen_2022)](https://theajack.github.io)
 
-[汉字工具库](https://theajack.github.io/cnchar) | [禁用F12开发者工具](https://theajack.github.io/disable-devtool) | [事件库](https://www.github.com/theajack/tc-event) | [图标库](https://theajack.github.io/easy-icon) | [创建项目工具cli](https://www.github.com/theajack/ebuild-cli) | [web框架Jetee](https://theajack.github.io/jetee) | [文本验证库](https://www.github.com/theajack/pure-v)
+[汉字工具库](https://theajack.github.io/cnchar) | [禁用F12开发者工具](https://theajack.github.io/disable-devtool) | [事件库](https://www.github.com/theajack/tc-event) | [图标库](https://theajack.github.io/easy-icon) | [创建项目工具cli](https://www.github.com/theajack/ebuild-cli) | [web框架Jetee](https://theajack.github.io/jetee) | [文本验证库](https://www.github.com/theajack/pure-v)| [留言板](https://theajack.github.io/message-board)
 
 [在线代码编辑器](https://theajack.github.io/jsbox) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://theajack.github.io/qrcode) | [横屏模拟器](https://theajack.github.io/landscap-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui)
 
