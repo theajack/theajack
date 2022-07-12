@@ -1,7 +1,7 @@
 
 <!-- # Hi there, I'm [Tack Chen!](https://shiyix.cn) 👋  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Tack+Chen%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Follish.)](https://shiyix.cn)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Tack+Chen%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://shiyix.cn)
 
 [![](https://img.shields.io/badge/TS-cnchar-1E90FF)](https://shiyix.cn/cnchar)
 [![](https://img.shields.io/badge/JS-DisableDevtool-ef5b9c)](https://www.github.com/theajack/disable-devtool)
