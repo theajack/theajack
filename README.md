@@ -21,7 +21,7 @@
 
 [在线代码编辑器](https://shiyix.cn/jsbox) | [留言板](https://shiyix.cn/message-board) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://shiyix.cn/qrcode) | [横屏模拟器](https://shiyix.cn/landscape-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui) | [调试工具tcon](https://www.github.com/theajack/tcon)
 
-[打字打飞机](https://shiyix.cn/type) | [打字弹钢琴](https://shiyix.cn/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) |[canvas-render-html](http://shiyix.cn/canvas-render-html) | [pixi-vue](https://www.github.com/theajack/pixi-vue) | [实用小工具](https://shiyix.cn/tool) | [大学查询](https://shiyix.cn/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
+[打字打飞机](https://shiyix.cn/type) | [打字弹钢琴](https://shiyix.cn/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) | [canvas-render-html](http://shiyix.cn/canvas-render-html) | [pixi-vue](https://www.github.com/theajack/pixi-vue) | [实用小工具](https://shiyix.cn/tool) | [大学查询](https://shiyix.cn/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
 
 <!-- | [抖音科普](https://www.douyin.com/user/MS4wLjABAAAAlp87ocUWPmyLfbwT5eBjY2Xydl7JmkZdG1INTjlbss8) -->
 
