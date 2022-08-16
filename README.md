@@ -6,7 +6,7 @@
 
 <!-- # Hi there, I'm [Tack Chen!](https://shiyix.cn) 👋  -->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Tack+Chen%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Follish.)](https://shiyix.cn)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Tack+Chen%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://shiyix.cn)
 
 [![](https://img.shields.io/badge/TS-cnchar-1E90FF)](https://shiyix.cn/cnchar)
 [![](https://img.shields.io/badge/JS-DisableDevtool-ef5b9c)](https://www.github.com/theajack/disable-devtool)
@@ -17,9 +17,9 @@
 [![](https://img.shields.io/badge/TS-purev-214467)](https://www.github.com/theajack/pure-v)
 [![](https://visitor-badge.glitch.me/badge?page_id=tackchen_2022)](https://shiyix.cn)
 
-[汉字工具库](https://shiyix.cn/cnchar) | [禁用F12开发者工具](https://shiyix.cn/disable-devtool) | [事件库](https://www.github.com/theajack/tc-event) | [图标库](https://shiyix.cn/easy-icon) | [创建项目工具cli](https://www.github.com/theajack/ebuild-cli) | [web框架Jetee](https://shiyix.cn/jetee) | [文本验证库](https://www.github.com/theajack/pure-v)| [留言板](https://shiyix.cn/message-board)
+[汉字工具库](https://shiyix.cn/cnchar) | [禁用F12开发者工具](https://shiyix.cn/disable-devtool) | [事件库](https://www.github.com/theajack/tc-event) | [图标库](https://shiyix.cn/easy-icon) | [创建项目工具cli](https://www.github.com/theajack/ebuild-cli) | [string-worker](https://www.github.com/theajack/string-worker) | [idb-logger](https://www.github.com/theajack/logger) | [web框架Jetee](https://shiyix.cn/jetee) | [文本验证库](https://www.github.com/theajack/pure-v)
 
-[在线代码编辑器](https://shiyix.cn/jsbox) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://shiyix.cn/qrcode) | [横屏模拟器](https://shiyix.cn/landscap-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui)
+[在线代码编辑器](https://shiyix.cn/jsbox) | [留言板](https://shiyix.cn/message-board) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://shiyix.cn/qrcode) | [横屏模拟器](https://shiyix.cn/landscape-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui)
 
 [打字打飞机](https://shiyix.cn/type) | [打字弹钢琴](https://shiyix.cn/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) | [实用小工具](https://shiyix.cn/tool) | [大学查询](https://shiyix.cn/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu) | [抖音:374346898](https://www.douyin.com/user/MS4wLjABAAAAlp87ocUWPmyLfbwT5eBjY2Xydl7JmkZdG1INTjlbss8)
 
