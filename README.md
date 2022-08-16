@@ -1,3 +1,8 @@
+<!--
+ * @Author: tackchen
+ * @Date: 2022-08-16 09:09:12
+ * @Description: Coding something
+-->
 
 <!-- # Hi there, I'm [Tack Chen!](https://shiyix.cn) 👋  -->
 
@@ -19,8 +24,10 @@
 [打字打飞机](https://shiyix.cn/type) | [打字弹钢琴](https://shiyix.cn/piano) | [计算代码行工具](https://www.github.com/theajack/count-code-line) | [实用小工具](https://shiyix.cn/tool) | [大学查询](https://shiyix.cn/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu) | [抖音:374346898](https://www.douyin.com/user/MS4wLjABAAAAlp87ocUWPmyLfbwT5eBjY2Xydl7JmkZdG1INTjlbss8)
 
 <a href="https://github.com/theajack?tab=repositories">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=theajack&count_private=true&show_icons=true&layout=compact&custom_title=My GitHub Stats:&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
-</a>&nbsp;
+    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=theajack&count_private=true&show_icons=true&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+</a>
+
+&nbsp;
 
 <a href="https://github.com/theajack">
     <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theajack&hide=html&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
