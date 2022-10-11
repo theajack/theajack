@@ -10,6 +10,7 @@
 
 [![](https://img.shields.io/badge/TS-cnchar-1E90FF)](https://shiyix.cn/cnchar)
 [![](https://img.shields.io/badge/JS-DisableDevtool-ef5b9c)](https://www.github.com/theajack/disable-devtool)
+[![](https://img.shields.io/badge/OS-MacOS-214467)](https://www.github.com/theajack/mac)
 [![](https://img.shields.io/badge/TS-tcEvent-d2813f)](https://www.github.com/theajack/tc-event)
 [![](https://img.shields.io/badge/ICON-EasyIcon-97FFFF)](https://shiyix.cn/easy-icon)
 [![](https://img.shields.io/badge/CLI-EBuild-44BB44)](https://www.github.com/theajack/ebuild-cli)
@@ -19,7 +20,7 @@
 
 [汉字工具库](https://shiyix.cn/cnchar) | [禁用F12开发者工具](https://shiyix.cn/disable-devtool) | [事件库](https://www.github.com/theajack/tc-event) | [图标库](https://shiyix.cn/easy-icon) | [创建项目工具cli](https://www.github.com/theajack/ebuild-cli) | [string-worker](https://www.github.com/theajack/string-worker) | [idb-logger](https://www.github.com/theajack/logger) | [web框架Jetee](https://shiyix.cn/jetee) | [文本验证库](https://www.github.com/theajack/pure-v)
 
-[在线代码编辑器](https://shiyix.cn/jsbox) | [留言板](https://shiyix.cn/message-board) | [跨窗口通信方案](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://shiyix.cn/qrcode) | [横屏模拟器](https://shiyix.cn/landscape-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui) | [调试工具tcon](https://www.github.com/theajack/tcon)
+[在线代码编辑器](https://shiyix.cn/jsbox) | [MacOS](https://github.com/theajack/mac) | [留言板](https://shiyix.cn/message-board) | [跨窗口通信](https://www.github.com/theajack/cross-window-message) | [测试库](https://www.github.com/theajack/easy-test-lib) | [小程序mixin](https://www.github.com/theajack/mp-mixin) | [二维码js库](https://shiyix.cn/qrcode) | [横屏模拟器](https://shiyix.cn/landscape-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui) | [调试工具](https://www.github.com/theajack/tcon)
 
 [打字打飞机](https://shiyix.cn/type) | [弹钢琴](https://shiyix.cn/piano) | [工资计算](https://theajack.github.io/salary) | [计算代码行](https://www.github.com/theajack/count-code-line) | [canvas-render-html](http://shiyix.cn/canvas-render-html) | [pixi-vue](https://www.github.com/theajack/pixi-vue) | [工具集](https://shiyix.cn/tool) | [大学查询](https://shiyix.cn/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
 
