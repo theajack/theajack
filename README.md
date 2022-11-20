@@ -11,17 +11,18 @@
 [![](https://img.shields.io/badge/TS-cnchar-1E90FF)](https://theajack.github.io/cnchar)
 [![](https://img.shields.io/badge/JS-DisableDevtool-ef5b9c)](https://www.github.com/theajack/disable-devtool)
 [![](https://img.shields.io/badge/Framework-Alins-d2813f)](https://www.github.com/alinsjs/alins)
+[![](https://img.shields.io/badge/Term-WebOS-44BB44)](https://www.github.com/theajack/webos)
 [![](https://img.shields.io/badge/CODE-JSBox-214467)](https://theajack.github.io/jsbox)
 [![](https://img.shields.io/badge/LOGGER-IDBLogger-FF6A6A)](https://theajack.github.io/idb-logger)
 [![](https://img.shields.io/badge/ICON-EasyIcon-97FFFF)](https://theajack.github.io/easy-icon)
-[![](https://img.shields.io/badge/CLI-EBuild-44BB44)](https://www.github.com/theajack/ebuild-cli)
 [![](https://visitor-badge.glitch.me/badge?page_id=tackchen_2022)](https://theajack.github.io)
+<!-- [![](https://img.shields.io/badge/CLI-EBuild-44BB44)](https://www.github.com/theajack/ebuild-cli) -->
 
-[cnchar](https://theajack.github.io/cnchar) | [Alinsjs](https://alinsjs.github.ui/alins) | [disable-devtool](https://theajack.github.io/disable-devtool) | [JSBox](https://theajack.github.io/jsbox) | [tc-event](https://www.github.com/theajack/tc-event) | [easy-icon](https://theajack.github.io/easy-icon) | [ebuild-cli](https://www.github.com/theajack/ebuild-cli) | [string-worker](https://www.github.com/theajack/string-worker) | [idb-logger](https://www.github.com/theajack/logger) | [Jetee](https://theajack.github.io/jetee) | [validation](https://www.github.com/theajack/pure-v)
+[cnchar](https://theajack.github.io/cnchar) | [Alinsjs](https://alinsjs.github.ui/alins) | [disable-devtool](https://theajack.github.io/disable-devtool) | [JSBox](https://theajack.github.io/jsbox) | [WebOS](https://theajack.github.io/webos) | [tc-event](https://www.github.com/theajack/tc-event) | [easy-icon](https://theajack.github.io/easy-icon) | [ebuild-cli](https://www.github.com/theajack/ebuild-cli) | [string-worker](https://www.github.com/theajack/string-worker) | [idb-logger](https://www.github.com/theajack/logger) | [Jetee](https://theajack.github.io/jetee) | [purev](https://www.github.com/theajack/pure-v)
 
 [message-board](https://theajack.github.io/message-board) | [cross-window-message](https://www.github.com/theajack/cross-window-message) | [test-lib](https://www.github.com/theajack/easy-test-lib) | [miniapp-mixin](https://www.github.com/theajack/mp-mixin) | [qrcode](https://theajack.github.io/qrcode) | [landscape-simulator](https://theajack.github.io/landscape-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui) | [tcon](https://www.github.com/theajack/tcon)
 
-[Typing aircraft](https://theajack.github.io/type) | [Piano](https://theajack.github.io/piano) | [Salary-caculator](theajack.github.iosalary) | [count-code-line](https://www.github.com/theajack/count-code-line) | [canvas-render-html](http://theajack.github.io/canvas-render-html) | [pixi-vue](https://www.github.com/theajack/pixi-vue) | [tools](https://theajack.github.io/tool) | [university-query](https://theajack.github.io/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
+[Typing-aircraft](https://theajack.github.io/type) | [Piano](https://theajack.github.io/piano) | [Salary-caculator](theajack.github.iosalary) | [count-code-line](https://www.github.com/theajack/count-code-line) | [canvas-html](http://theajack.github.io/canvas-render-html) | [pixi-vue](https://www.github.com/theajack/pixi-vue) | [tools](https://theajack.github.io/tool) | [university](https://theajack.github.io/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
 
 <!-- | [抖音科普](https://www.douyin.com/user/MS4wLjABAAAAlp87ocUWPmyLfbwT5eBjY2Xydl7JmkZdG1INTjlbss8) -->
 
