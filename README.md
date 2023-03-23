@@ -24,18 +24,18 @@
 
 <!-- [Jetee](https://theajack.github.io/jetee)  -->
 
-[message-board](https://theajack.github.io/message-board) | [cross-window-message](https://www.github.com/theajack/cross-window-message) | [test-lib](https://www.github.com/theajack/easy-test-lib) | [miniapp-mixin](https://www.github.com/theajack/mp-mixin) | [qrcode](https://theajack.github.io/qrcode) | [landscape-simulator](https://theajack.github.io/landscape-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui) | [tcon](https://www.github.com/theajack/tcon)
+[message-board](https://theajack.github.io/message-board) | [cross-window-message](https://www.github.com/theajack/cross-window-message) | [test-lib](https://www.github.com/theajack/easy-test-lib) | [miniapp-mixin](https://www.github.com/theajack/mp-mixin) | [qrcode](https://theajack.github.io/qrcode) | [landscape-simulator](https://theajack.github.io/landscape-simulator) | [easydom](https://www.github.com/theajack/easy-dom) | [tacl-ui](https://www.github.com/theajack/tacl-ui) | [tcon](https://www.github.com/theajack/tcon) | [Jetee](https://theajack.github.io/jetee)
 
 [Typing-aircraft](https://theajack.github.io/type) | [Piano](https://theajack.github.io/piano) | [Salary-caculator](https://theajack.github.io/salary) | [count-code-line](https://www.github.com/theajack/count-code-line) | [canvas-html](http://theajack.github.io/canvas-render-html) | [pixi-vue](https://www.github.com/theajack/pixi-vue) | [tools](https://theajack.github.io/tool) | [university](https://theajack.github.io/university) | [jetterjs](https://www.github.com/theajack/jetterjs) | [Gitee](https://www.gitee.com/theajack) | [CSDN](https://blog.csdn.net/yanxiaomu)
 
 <!-- | [抖音科普](https://www.douyin.com/user/MS4wLjABAAAAlp87ocUWPmyLfbwT5eBjY2Xydl7JmkZdG1INTjlbss8) -->
 
 <a href="https://github.com/theajack?tab=repositories">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=theajack&count_private=true&show_icons=true&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theajack&count_private=true&show_icons=true&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>&nbsp;
 
 <a href="https://github.com/theajack">
-    <img align="center" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theajack&hide=html&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
+    <img align="center" height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theajack&hide=html&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>
 
 <!--
