@@ -8,8 +8,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Tack+Chen%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://theajack.github.io)
 
-[人生阶段性总结与思考:这些年造过的轮子](https://github.com/theajack/theajack/blob/master/MAKE_WHEELS.md)
-
 [![](https://img.shields.io/badge/All-Works-97FFFF)](https://shiyix.cn/link)
 [![](https://img.shields.io/badge/TS-cnchar-1E90FF)](https://theajack.github.io/cnchar)
 [![](https://img.shields.io/badge/JS-DisableDevtool-ef5b9c)](https://www.github.com/theajack/disable-devtool)
@@ -23,6 +21,8 @@
 <!-- [![](https://img.shields.io/badge/LOGGER-IDBLogger-FF6A6A)](https://theajack.github.io/idb-logger) -->
 <!-- [![](https://img.shields.io/badge/ICON-EasyIcon-97FFFF)](https://theajack.github.io/easy-icon) -->
 <!-- [![](https://img.shields.io/badge/CLI-EBuild-44BB44)](https://www.github.com/theajack/ebuild-cli) -->
+
+[[人生阶段性总结与思考:这些年造过的轮子](https://github.com/theajack/theajack/blob/master/MAKE_WHEELS.md)]
 
 [cnchar](https://theajack.github.io/cnchar) | [Alins](https://alinsjs.github.io/docs) | [Sener](https://www.github.com/theajack/sener) | [disable-devtool](https://theajack.github.io/disable-devtool) | [JSBox](https://theajack.github.io/jsbox) | [WebOS](https://theajack.github.io/webos) | [MacOS](https://theajack.github.io/mac) | [eveit](https://www.github.com/theajack/eveit) | [easy-icon](https://theajack.github.io/easy-icon) | [ebuild-cli](https://www.github.com/theajack/ebuild-cli) | [string-worker](https://www.github.com/theajack/string-worker) | [idb-logger](https://www.github.com/theajack/logger)
 
