@@ -37,7 +37,7 @@ by - [theajack](https://github.com/theajack) 【2023/06/16 晚】
 
 当时曾经有一个异想天开的想法，用程序写一个可以像婴儿一样自己成长的程序，通过与人的交互来自己学习，变得可以与人交流，有思考能力。但是这个想法确实与当时自己的能力和执行力严重不匹配，也就是想了想而已。
 
-知道ChatGPT一夜爆火，突然当时的这个想法在内心深处点了我一下：如果当时深究这个想法，去了解，学习，然后从事AI方向，不知道想在会不会成为一个比较成功的自己。
+直到ChatGPT一夜爆火，突然当时的这个想法在内心深处点了我一下：如果当时深究这个想法，去了解，学习，然后从事AI方向，不知道想在会不会成为一个比较成功的自己。
 
 ## 2016-2019 研究生阶段
 
@@ -53,7 +53,7 @@ ofo火遍了每一个校园，且那个时候每辆车的车牌和密码是一�
 
 与同学合作接了一些外包，也是在这个时间学习了Vue和React，并且在外包项目中应（lian）用（shou）了。影响比较深的是某珠宝公司的官网、某学院的学生考试系统...，赚了点零花钱。
 
-初次之外学习使用了Git，也开始使用Github写一些自认为有意思的东西。开始了造轮子之路
+除此之外学习使用了Git，也开始使用Github写一些自认为有意思的东西。开始了造轮子之路
 
 ### [jetterjs](https://github.com/theajack/jetterjs)
 
@@ -65,7 +65,7 @@ ofo火遍了每一个校园，且那个时候每辆车的车牌和密码是一�
 
 包含JQL和BQL两个东西，JQL是 Json Query Language，想SQL一样操作Json
 
-BQL是Bind Query Language，将JQL与UI结合起来，数据改变了直接更改UI，底层是基于jetterjs来做UI操作的
+BQL是Bind Query Language，将JQL与UI结合起来，数据改变了直接更改UI，底层是基于jetterjs来做Dom操作的
 
 ### [jetee](https://github.com/theajack/jetee)
 
@@ -87,7 +87,7 @@ BQL是Bind Query Language，将JQL与UI结合起来，数据改变了直接更�
 
 ### [tc-editor](https://github.com/theajack/tc-editor)
 
-又是一款纯canvas撸出来的游戏。印象比较深的是熬夜做了很多碰撞体积计算和性能优化。
+一款无第三方依赖的轻巧的代码片段编辑器。另辟蹊径，采用’多图层‘做代码高亮和代码编辑的分离。
 
 ### 奔跑的柴柴
 
@@ -107,7 +107,7 @@ BQL是Bind Query Language，将JQL与UI结合起来，数据改变了直接更�
 
 ### [disable-devtool](https://github.com/theajack/disable-devtool)
 
-star数第二多的仓库，防止通过任何方式打开开发者工具的工具。很多黑科技，也被浏览器升级和兼容问题折磨的够呛。目前还是会有一些浏览器不起效。
+star数第二多的仓库，防止通过任何方式打开开发者工具的工具。用了很多黑科技，也被浏览器升级和兼容问题折磨的够呛。目前还是会有一些浏览器不起效。
 
 ### [jsbox](https://github.com/theajack/jsbox)
 
@@ -129,7 +129,7 @@ webworker + indexeddb 做的本地日志存储方案，支持localstorage降级�
 
 ### [webos-term](https://github.com/theajack/webos)
 
-一个更大的坑，不管算是填的比较完整的一个坑了。基于HTMLFileSystem做的web命令行界面，模拟了基础的linux命令，实现了文件系统，webos-module可以直接运行es6，支持import引入npm包。
+一个更大的坑，不过算是填的比较完整的一个坑了。基于HTMLFileSystem做的web命令行界面，模拟了基础的linux命令，实现了文件系统，webos-module可以直接运行es6，支持import引入npm包。
 
 ### [macos](https://github.com/theajack/mac)
 
@@ -145,7 +145,7 @@ webworker + indexeddb 做的本地日志存储方案，支持localstorage降级�
 
 ### [alins](https://github.com/alinsjs/alins)
 
-或许是觉得上的jetee写的太烂了，于是重新搞了一个alins框架，目标是all in js，html、css都是响应式的，无vdom、html、css，无编译。拿起来就能用。
+或许是觉得上的jetee写的太烂了，于是重新搞了一个UI框架，目标是all in js，html、css都是响应式的，无vdom、html、css，无编译。拿起来就能用。
 
 ### [ebuild-cli](https://github.com/theajack/ebuild-cli)
 
@@ -173,7 +173,7 @@ easy-icon：一个很丰富的css图标库
 
 ### [easy-test-lib](https://github.com/theajack/easy-test-lib)
 
-一个简单地单元测试工具
+一个简单的单元测试工具
 
 ### [miniapp-mixin](https://www.github.com/theajack/mp-mixin)
 
@@ -221,7 +221,7 @@ web复制文本库
 
 ### [salary-caculator](https://github.com/theajack/salary)
 
-工资计算器。跳槽的时候算工资涨幅的时候写的。
+工资计算器。跳槽的时候为了算工资明细写的。
 
 ### [university](https://github.com/theajack/university)
 
