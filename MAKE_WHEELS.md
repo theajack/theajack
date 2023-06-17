@@ -31,7 +31,7 @@ by - [theajack](https://github.com/theajack) 【2023/06/16 晚】
 
 比较傻瓜的单机APP，没有使用引擎，全靠原生一个什么组件的API绘制出来，组件名字我不太记得了。。。
 
-另外帮同学做了一款套安卓壳子的H5应用，也就是后来流行起来的 Hybrid App 模式。这个[代码仓库](https://github.com/theajack/stone-finance)保留了下来
+另外帮同学做了一款套安卓壳子的H5应用，也就是后来流行起来的 Hybrid App 模式。这个[代码仓库](https://github.com/theajack/stonefinance)保留了下来
 
 ### 关于AI的思考
 
@@ -55,7 +55,7 @@ ofo火遍了每一个校园，且那个时候每辆车的车牌和密码是一�
 
 初次之外学习使用了Git，也开始使用Github写一些自认为有意思的东西。开始了造轮子之路
 
-### [jetterjs](https://github.com/theajack/stone-finance)
+### [jetterjs](https://github.com/theajack/jetterjs)
 
 低配版jQuery，对其jQuery封装了DOM操作，也就是这个项目中算是夯实了js基础。
 
@@ -155,7 +155,7 @@ webworker + indexeddb 做的本地日志存储方案，支持localstorage降级�
 
 疫情期间封控在家写的叮咚买菜nodejs下单脚本。抢到过几次菜
 
-### [corss-window-message](https://github.com/theajack/corss-window-message)
+### [cross-window-message](https://github.com/theajack/cross-window-message)
 
 跨窗口通信方案。自认为功能很强大很酷。。
 
@@ -179,9 +179,13 @@ easy-icon：一个很丰富的css图标库
 
 微信小程序的mixin工具，可以解决跨页面状态共享的问题
 
-### [评论回复框组件](https://www.github.com/theajack/tc-comment)
+### [评论回复框组件](https://www.github.com/theajack/comment)
 
 tc-comment：支持markdown、emoji，支持实时预览的评论组件。同时搭配了评论列表和回复。配有后端接口免费试用
+
+### [vuepress-plugin-tc-comment](https://www.github.com/theajack/vuepress-plugin-tc-comment)
+
+tc-comment的vuepress插件
 
 ### [留言板](https://www.github.com/theajack/message-board)
 
@@ -194,6 +198,10 @@ easy-dom：封装了基本的dom操作。算是jetterjs的升级和简化版本�
 ### [简单的ui库](https://www.github.com/theajack/tacl-ui)
 
 tacl-ui：基于easy-dom做的简单的ui，仅包含toast、confirm、loading、pop四个组件。
+
+### [copy](https://github.com/theajack/copy)
+
+web复制文本库
 
 ### [pure-v](https://github.com/theajack/pure-v)
 
@@ -222,6 +230,10 @@ tacl-ui：基于easy-dom做的简单的ui，仅包含toast、confirm、loading�
 ### [landscape-simulator](https://github.com/theajack/landscape-simulator)
 
 移动端横屏模拟器。用来在竖屏的时候自动模拟横屏的效果。
+
+### [storage-enhance](https://github.com/theajack/storage-enhance)
+
+对web存储的扩展，支持使用cookie，支持nodejs、小程序小游戏统一API调用
 
 ### [tcon](https://github.com/theajack/tcon)
 
@@ -260,6 +272,10 @@ particle-drawer：一款很有意思的粒子绘画器。可以绘制文本和�
 ### [AI nodejsSDK](https://github.com/theajack/spark-node)
 
 spark-node：讯飞星火认知大模型openAPI的nodejsSDK。官方没有提供nodejs版本，于是撸了一个
+
+### [webapp-box](https://github.com/theajack/webapp-box)
+
+一个web应用弹窗子应用的容器
 
 ## 结语
 
