@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&lines=Hi+there%2C+I'm+Tack+Chen%EF%BC%81;console.log(%22Hello+World!%22);Stay+Hungry,+Stay+Foolish.)](https://theajack.github.io)
 
+[人生阶段性总结与思考:这些年造过的轮子](https://github.com/theajack/theajack/blob/master/MAKE_WHEELS.md)
+
 [![](https://img.shields.io/badge/All-Works-97FFFF)](https://shiyix.cn/link)
 [![](https://img.shields.io/badge/TS-cnchar-1E90FF)](https://theajack.github.io/cnchar)
 [![](https://img.shields.io/badge/JS-DisableDevtool-ef5b9c)](https://www.github.com/theajack/disable-devtool)
