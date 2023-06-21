@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/Term-WebOS-44BB44)](https://www.github.com/theajack/webos)
 [![](https://img.shields.io/badge/OS-MacOS-11BB99)](https://www.github.com/theajack/mac)
 [![](https://img.shields.io/badge/CODE-JSBox-214467)](https://theajack.github.io/jsbox)
-<!-- [![](https://shiyix.cn/api2/util/badge/stat?c=Visitors-theajack)](https://www.github.com/theajack) -->
+[![](https://shiyix.cn/api2/util/badge/stat?c=Visitors-theajack)](https://www.github.com/theajack)
 <!-- [![](https://visitor-badge.glitch.me/badge?page_id=tackchen_2022)](https://theajack.github.io) -->
 <!-- [![](https://img.shields.io/badge/LOGGER-IDBLogger-FF6A6A)](https://theajack.github.io/idb-logger) -->
 <!-- [![](https://img.shields.io/badge/ICON-EasyIcon-97FFFF)](https://theajack.github.io/easy-icon) -->
